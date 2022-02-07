@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_030_Verify_Ok_Btn_Perform_Valid_Input_IssuingBankframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60e84f14-4aa2-46cd-9dbe-f1bddd302df9</testCaseGuid>
+</TestCaseEntity>

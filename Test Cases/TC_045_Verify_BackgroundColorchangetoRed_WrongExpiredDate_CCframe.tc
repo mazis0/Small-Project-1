@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_045_Verify_BackgroundColorchangetoRed_WrongExpiredDate_CCframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97a2e2ae-b619-4aa8-8a2b-7c2d92c9a6f0</testCaseGuid>
+</TestCaseEntity>

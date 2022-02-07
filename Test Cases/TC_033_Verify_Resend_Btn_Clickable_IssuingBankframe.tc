@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_033_Verify_Resend_Btn_Clickable_IssuingBankframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ec093a5-ada3-4ded-87e6-09ba45e985ba</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_038_Verify_ErrorMessageDisplayed_OnlyInputCityonCustomerDetails_ShoppingCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c779bef0-15af-4262-a0d4-0b85357f347a</testCaseGuid>
+</TestCaseEntity>

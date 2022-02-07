@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_016_Verify_Discount_10percent_perform_CCframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff1d8711-11db-4746-869e-827e096205db</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_026_Verify_PAYNOW_Btn_Perform_ValidInput_CCframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a85b1706-c66a-4e3f-ad9e-dd26d7de6bc7</testCaseGuid>
+</TestCaseEntity>

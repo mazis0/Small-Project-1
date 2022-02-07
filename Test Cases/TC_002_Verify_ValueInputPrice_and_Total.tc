@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_002_Verify_ValueInputPrice_and_Total</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d14da0e0-3e38-48d6-a7c4-fb6b8142c49c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_027_Verify_Value_AmountwithAmountonCCframe_IssuingBankframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c81cbf29-f3b0-476d-ba91-60b2f85132aa</testCaseGuid>
+</TestCaseEntity>

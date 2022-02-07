@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_008_Verify_PhonewithInput_OrderSummaryframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6dfb9e5-fba8-46a9-8590-59a210a85abb</testCaseGuid>
+</TestCaseEntity>

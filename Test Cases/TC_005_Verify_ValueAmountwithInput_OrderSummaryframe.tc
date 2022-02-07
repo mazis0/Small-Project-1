@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_005_Verify_ValueAmountwithInput_OrderSummaryframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41c8d123-786e-407b-9dc1-7e511df23a7d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_022_Verify_PromoMidtrans_perform_CCframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>229a01f1-deef-4b39-b4c1-1bc7512140d8</testCaseGuid>
+</TestCaseEntity>

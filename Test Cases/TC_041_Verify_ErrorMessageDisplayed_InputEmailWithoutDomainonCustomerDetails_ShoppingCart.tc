@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_041_Verify_ErrorMessageDisplayed_InputEmailWithoutDomainonCustomerDetails_ShoppingCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53ac122d-a66d-470c-b509-fbe00b425230</testCaseGuid>
+</TestCaseEntity>

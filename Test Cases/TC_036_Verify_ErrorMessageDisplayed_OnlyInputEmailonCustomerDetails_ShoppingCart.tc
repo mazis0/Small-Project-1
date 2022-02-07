@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_036_Verify_ErrorMessageDisplayed_OnlyInputEmailonCustomerDetails_ShoppingCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f50d3c2-8157-4818-ac5d-a135d09815f0</testCaseGuid>
+</TestCaseEntity>

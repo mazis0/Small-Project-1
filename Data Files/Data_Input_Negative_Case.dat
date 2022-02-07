@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Data_Input_Negative_Case</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>e6fcc984-6f64-46a7-82dd-fd56fe1c66b2</dataFileGUID>
+   <dataSourceUrl>C:\Users\muham\OneDrive\Desktop\QA\Small_Project1_DemoMidtrans.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <properties>
+      <entry>
+         <key>readAsString</key>
+         <value>true</value>
+      </entry>
+   </properties>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet3</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

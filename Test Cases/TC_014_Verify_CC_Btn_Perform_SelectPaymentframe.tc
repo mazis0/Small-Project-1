@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_014_Verify_CC_Btn_Perform_SelectPaymentframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1341052-5421-46bc-8c90-d96b4b291692</testCaseGuid>
+</TestCaseEntity>

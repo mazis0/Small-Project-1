@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_004_Verify_Checkout_Btn_Perform_Valid_Input</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5983c15-7957-4306-8b38-5a2dd6b7b8c6</testCaseGuid>
+</TestCaseEntity>

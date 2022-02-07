@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe</name>
+   <tag></tag>
+   <elementGuidId>107fc5eb-5446-426f-a4de-1aafd9611318</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>iframe[id='snap-midtrans']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe[@id='snap-midtrans']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>iframe[id='snap-midtrans']</value>
+   </webElementProperties>
+</WebElementEntity>

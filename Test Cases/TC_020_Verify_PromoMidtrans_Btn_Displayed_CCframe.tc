@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_020_Verify_PromoMidtrans_Btn_Displayed_CCframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0320826f-724c-4ad1-89bf-79541fb75e6e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_007_Verify_NamewithInput_OrderSummaryframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe35751e-3300-43d8-838a-515b97e156ce</testCaseGuid>
+</TestCaseEntity>

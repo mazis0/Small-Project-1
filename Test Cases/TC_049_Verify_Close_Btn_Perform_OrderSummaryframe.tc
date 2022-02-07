@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_049_Verify_Close_Btn_Perform_OrderSummaryframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>54a47af3-7886-42a8-bd19-de6b7aa8a4a4</testCaseGuid>
+</TestCaseEntity>

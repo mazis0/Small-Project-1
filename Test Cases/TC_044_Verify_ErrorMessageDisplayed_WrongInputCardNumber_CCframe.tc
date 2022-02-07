@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_044_Verify_ErrorMessageDisplayed_WrongInputCardNumber_CCframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23acf639-6ba6-40e5-bf29-7a7e2ced6da6</testCaseGuid>
+</TestCaseEntity>

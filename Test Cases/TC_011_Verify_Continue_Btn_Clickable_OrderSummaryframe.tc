@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_011_Verify_Continue_Btn_Clickable_OrderSummaryframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73128a70-0298-4bd1-8139-c705a6524ba2</testCaseGuid>
+</TestCaseEntity>
